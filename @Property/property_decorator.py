@@ -1,31 +1,31 @@
 class Employee:
 
     def __init__(self, first):
-        self.first = first
+        self._first = first
 
     @property
-    def getFirst(self):
+    def first(self):
         print('getter')
-        return self.first
+        return self._first
 
-    @getFirst.setter
-    def getFirst(self, value):
+    @first.setter
+    def first(self, value):
         print('setter')
-        self.first = value
+        self._first = value
 
-    @getFirst.deleter
-    def getFirst(self):
+    @first.deleter
+    def first(self):
         print('deleter')
-        del self.first
+        del self._first
     
     #sec=property(getFirst,setFirst,delFirst,"first")
     
 emp = Employee('Swati')
 
-print(emp.getFirst)
+print(emp.first)
 
-emp.getFirst = 'Abhinav'
+emp.first = 'Abhinav'
 
-print(emp.getFirst)
+print(emp.first)
 
-del emp.getFirst
+del emp.first
