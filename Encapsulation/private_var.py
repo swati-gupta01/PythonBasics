@@ -1,4 +1,11 @@
+'''
+Using OOP in python , we can restrict access to methods
+and variables.This prevent data from direct modification ,
+called as ENCAPSULATION.
+'''
+
 class Compute:
+    """Understanding Private Variables '_' or '__'"""
     def __init__(self):
         self.__maxprice=900
 
@@ -19,5 +26,9 @@ c.get_maxprice()
 #calling setter to update value
 c.set_maxprice(1000)
 c.get_maxprice()
+
+#docstring and help
+print(Compute.__doc__)
+help(Compute)
 
 
