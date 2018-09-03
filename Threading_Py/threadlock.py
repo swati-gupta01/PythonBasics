@@ -1,5 +1,5 @@
 '''Accessing lock in thread can prevent to share global variables
-and thus preventind data curroption'''
+and thus preventing data curroption'''
 
 #with lock - calling lock.accquire()
 #while exiting - lock.release()
