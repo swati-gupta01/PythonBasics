@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eda01d38-23e4-4716-88f6-e204e9769507" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Algo &amp; DS/Searching Algorithms/myBinarySearch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/My_flask_app/myapp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/My_flask_app/static/hf.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/My_flask_app/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/My_flask_app/templates/entry.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/My_flask_app/templates/results.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/My_flask_app/templates/viewlog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algo &amp; DS/Sorting Algorithms/bubble_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algo &amp; DS/Sorting Algorithms/bubblesort_enhanced.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algo &amp; DS/Sorting Algorithms/selection_sort.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Untitled.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algo &amp; DS/Searching Algorithms/myBinarySearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algo &amp; DS/Searching Algorithms/myBinarySearch.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,65 +17,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="myapp.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/My_flask_app/myapp.py">
+      <file leaf-file-name="bubblesort_enhanced.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algo &amp; DS/Sorting Algorithms/bubblesort_enhanced.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+            <state relative-caret-position="361">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/My_flask_app/templates/base.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="9" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hf.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/My_flask_app/static/hf.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="637">
-              <caret line="57" column="4" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="myBinarySearch.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Algo &amp; DS/Searching Algorithms/myBinarySearch.py">
+      <file leaf-file-name="selection_sort.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algo &amp; DS/Sorting Algorithms/selection_sort.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
-              <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="entry.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/My_flask_app/templates/entry.html">
+      <file leaf-file-name="sys.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sys/sys.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="171">
+              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="results.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/My_flask_app/templates/results.html">
+      <file leaf-file-name="property_decorator_type1.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/@Property/property_decorator_type1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+            <state relative-caret-position="437">
+              <caret line="23" column="9" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="viewlog.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/My_flask_app/templates/viewlog.html">
+      <file leaf-file-name="property_decorato_type2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/@Property/property_decorato_type2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+            <state relative-caret-position="209">
+              <caret line="11" column="17" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -116,14 +94,18 @@
         <option value="$PROJECT_DIR$/My_flask_app/static/hf.css" />
         <option value="$PROJECT_DIR$/My_flask_app/myapp.py" />
         <option value="$PROJECT_DIR$/My_flask_app/templates/entry.html" />
+        <option value="$PROJECT_DIR$/Algo &amp; DS/Sorting Algorithms/bubblea_sort.py" />
         <option value="$PROJECT_DIR$/Algo &amp; DS/Searching Algorithms/myBinarySearch.py" />
+        <option value="$PROJECT_DIR$/Algo &amp; DS/Sorting Algorithms/bubble_sort.py" />
+        <option value="$PROJECT_DIR$/Algo &amp; DS/Sorting Algorithms/bubblesort_enhanced.py" />
+        <option value="$PROJECT_DIR$/Algo &amp; DS/Sorting Algorithms/selection_sort.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="543" />
-    <option name="y" value="22" />
-    <option name="width" value="1189" />
+    <option name="x" value="542" />
+    <option name="y" value="21" />
+    <option name="width" value="1190" />
     <option name="height" value="730" />
   </component>
   <component name="ProjectView">
@@ -141,13 +123,12 @@
             <path>
               <item name="Python_repository" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_repository" type="462c0819:PsiDirectoryNode" />
-              <item name="Algo &amp; DS" type="462c0819:PsiDirectoryNode" />
+              <item name="@Property" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python_repository" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_repository" type="462c0819:PsiDirectoryNode" />
               <item name="Algo &amp; DS" type="462c0819:PsiDirectoryNode" />
-              <item name="Searching Algorithms" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python_repository" type="b2602c69:ProjectViewProjectNode" />
@@ -170,6 +151,11 @@
               <item name="Python_repository" type="462c0819:PsiDirectoryNode" />
               <item name="My_flask_app" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_repository" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_repository" type="462c0819:PsiDirectoryNode" />
+              <item name="sys" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -195,7 +181,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.myBinarySearch">
+  <component name="RunManager" selected="Python.property_decorator_type1">
     <configuration name="Assert_Python" type="PythonConfigurationType" factoryName="Python">
       <module name="Python_repository" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -214,7 +200,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="classmethod &amp; staticmethod" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="bubble_sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_repository" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -222,11 +208,29 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algo &amp; DS/Sorting Algorithms" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classmethod &amp; staticmethod.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algo &amp; DS/Sorting Algorithms/bubble_sort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="bubblesort_enhanced" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_repository" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algo &amp; DS/Sorting Algorithms" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algo &amp; DS/Sorting Algorithms/bubblesort_enhanced.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -250,7 +254,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="myapp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="property_decorator_type1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_repository" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -258,17 +262,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/My_flask_app" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/@Property" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/My_flask_app/myapp.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/@Property/property_decorator_type1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="reverse_list_str" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="selection_sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_repository" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -276,29 +280,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algo &amp; DS/Sorting Algorithms" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reverse_list_str.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="setdefault_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_repository" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/setdefault_method.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algo &amp; DS/Sorting Algorithms/selection_sort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -306,19 +292,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Assert_Python" />
-      <item itemvalue="Python.setdefault_method" />
-      <item itemvalue="Python.classmethod &amp; staticmethod" />
-      <item itemvalue="Python.reverse_list_str" />
-      <item itemvalue="Python.myapp" />
       <item itemvalue="Python.myBinarySearch" />
+      <item itemvalue="Python.bubble_sort" />
+      <item itemvalue="Python.bubblesort_enhanced" />
+      <item itemvalue="Python.selection_sort" />
+      <item itemvalue="Python.property_decorator_type1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.property_decorator_type1" />
+        <item itemvalue="Python.selection_sort" />
+        <item itemvalue="Python.bubblesort_enhanced" />
+        <item itemvalue="Python.bubble_sort" />
         <item itemvalue="Python.myBinarySearch" />
-        <item itemvalue="Python.myapp" />
-        <item itemvalue="Python.reverse_list_str" />
-        <item itemvalue="Python.classmethod &amp; staticmethod" />
-        <item itemvalue="Python.setdefault_method" />
       </list>
     </recent_temporary>
   </component>
@@ -339,14 +325,14 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22009254" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22009254" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32909605" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32909605" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34887007" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34887007" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.31149733" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.31073445" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997175" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -360,21 +346,21 @@
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17448777" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32909605" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32909605" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32909605" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32909605" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997175" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32909605" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32909605" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32909605" />
-      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32909605" />
     </layout-to-restore>
   </component>
   <component name="UnknownFeatures">
@@ -410,11 +396,37 @@
           <line>33</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Algo &amp; DS/Sorting Algorithms/bubblesort_enhanced.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="5" />
+      <option name="time" value="6" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Algo &amp; DS/Sorting Algorithms/bubblesort_enhanced.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algo &amp; DS/Sorting Algorithms/selection_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sys/sys.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Encapsulation/private_var.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
@@ -647,13 +659,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/My_flask_app/myapp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/My_flask_app/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -675,10 +680,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/My_flask_app/myapp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algo &amp; DS/Sorting Algorithms/bubble_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Algo &amp; DS/Searching Algorithms/myBinarySearch.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algo &amp; DS/Sorting Algorithms/bubblesort_enhanced.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algo &amp; DS/Sorting Algorithms/selection_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
-          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sys/sys.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/@Property/property_decorato_type2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/@Property/property_decorator_type1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="9" />
         </state>
       </provider>
     </entry>

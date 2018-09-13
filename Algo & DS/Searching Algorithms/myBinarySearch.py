@@ -1,4 +1,5 @@
 #Binary search through recurisve call
+#always work on sorted array
 
 def binarySearch(arr,l,r,x):
     if r<l:
