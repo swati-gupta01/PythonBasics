@@ -20,3 +20,4 @@ try:
     print(c.__maxprice)  #through error
 except:
     c.get_maxprice()
+
