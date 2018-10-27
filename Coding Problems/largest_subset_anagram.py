@@ -6,6 +6,7 @@ def find_ana_pair(str):
         str[i]=''.join(sorted(str[i]))
     print(str)
     freq_d=Counter(str)
+    print(freq_d)
     return (max(freq_d.values()))
 
 

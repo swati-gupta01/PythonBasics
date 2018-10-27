@@ -7,6 +7,7 @@ def find_order(str1,str2):
     str=str1+str2
     t=0
     for i in str:
+        # print(t)
         t=t^ord(i)
     return t
 

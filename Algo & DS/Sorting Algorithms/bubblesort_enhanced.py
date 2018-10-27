@@ -2,11 +2,12 @@
 
 def bubblesort(arr):
     l = len(a)
-    swap=False
+    # swap=False
     for i in range(l):
-        for j in range(i+1,l):
-            if arr[j]<arr[i]:
-                arr[i],arr[j]=arr[j],arr[i]
+        swap=False
+        for j in range(0,l-i-1):
+            if arr[j+1]<arr[j]:
+                arr[j],arr[j+1]=arr[j+1],arr[j]
                 swap=True
         if swap==False:
             break
